@@ -967,10 +967,6 @@
 		}
 		fmt.Println(titles) // "[{Casablanca} {Cool Hand Luke} {Bullitt}]"
 
-
-
-
-
 		
 
 		
