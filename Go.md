@@ -468,10 +468,10 @@
 
 - func定义，左大括号依旧不能另起一行
 	
-	func test(x,y int,s string)(int,string){  //类型相同的相邻参数可合并，多返回值必须用括号
+		func test(x,y int,s string)(int,string){  //类型相同的相邻参数可合并，多返回值必须用括号
 
-		...
-	} 
+			...
+		} 
 
 - 函数可作为参数传递，建议将复杂签名定义为函数类型
 
